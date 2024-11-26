@@ -8,7 +8,7 @@ public class main{
   }
     public static void main(String[] args) {
       main s1= new main();
-      System.out.println(s1.add());
+      System.out.println(add());
       public int add() {
       return i+j;
       }
